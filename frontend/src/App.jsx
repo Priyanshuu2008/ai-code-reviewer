@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://ai-code-reviewer-anhq.onrender.com";
 
 const LANGUAGES = [
   "python","javascript","typescript","java","kotlin","c","c++","go",
