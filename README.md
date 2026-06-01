@@ -9,6 +9,14 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-RAG-FF6B6B?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)
 
+## 🚀 Live Demo
+
+| Service | URL |
+|---|---|
+| Frontend | [ai-code-reviewer-psi-ashen.vercel.app](https://ai-code-reviewer-psi-ashen.vercel.app) |
+| Backend API | [ai-code-reviewer-anhq.onrender.com](https://ai-code-reviewer-anhq.onrender.com) |
+| API Docs | [ai-code-reviewer-anhq.onrender.com/docs](https://ai-code-reviewer-anhq.onrender.com/docs) |
+
 ---
 
 ## About the Project
@@ -152,7 +160,7 @@ GITHUB_TOKEN=your_github_token_here
 | DELETE | `/api/team/rules` | Delete a team rule |
 | DELETE | `/api/team/rules/all` | Clear all team rules |
 
-Full API docs available at `http://127.0.0.1:8000/docs`
+Full API docs available at `https://ai-code-reviewer-anhq.onrender.com/docs`
 
 ---
 
@@ -171,6 +179,7 @@ Full API docs available at `http://127.0.0.1:8000/docs`
 **Priyanshu Tiwari**
 - GitHub: [@Priyanshuu2008](https://github.com/Priyanshuu2008)
 - LinkedIn: [priyanshuu20](https://www.linkedin.com/in/priyanshuu20/)
+- Live Demo: [ai-code-reviewer-psi-ashen.vercel.app](https://ai-code-reviewer-psi-ashen.vercel.app)
 
 ---
 
